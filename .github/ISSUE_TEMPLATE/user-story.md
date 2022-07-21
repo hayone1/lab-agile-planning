@@ -9,6 +9,7 @@ assignees: ''
 
 **As a** [role]
 **I need** [benefit]
+**So that** [end result]
 
 ### Details and Assumption
 * [document what you know]
